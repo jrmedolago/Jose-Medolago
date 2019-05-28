@@ -1,0 +1,7 @@
+git remote add origin https://github.com/jrmedolago/Jose-Medolago.git
+
+
+MEU ARQUIVO PARA AVALIAÇÃO PROF. SERGIO
+
+JOSE RICARDO MEDOLAGO
+1DS - TURMA A
